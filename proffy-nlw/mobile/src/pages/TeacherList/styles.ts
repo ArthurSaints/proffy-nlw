@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
         marginTop: -40
     },
 
-    searchFrom: {
+    searchForm: {
         marginBottom: 24
     },
 
